@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <AbsoluteLayout
+        android:gravity="center"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="500dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_x="0dp"
+            android:layout_y="23dp"
+            android:gravity="center_horizontal"
+            android:text="요금 계산"
+            android:textColor="#ff0000"
+            android:textSize="50dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_x="0dp"
+            android:layout_y="123dp"
+            android:gravity="center_horizontal"
+            android:text="-주차한 시간-"
+            android:textSize="40dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_x="0dp"
+            android:layout_y="370dp"
+            android:text="-주차요금-"
+            android:textSize="40dp" />
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:layout_x="50dp"
+            android:layout_y="230dp"
+            android:ems="10"
+            android:hint="시간"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/editText5"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:layout_x="230dp"
+            android:layout_y="230dp"
+            android:ems="10"
+            android:hint="분"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/editText6"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:layout_x="50dp"
+            android:layout_y="460dp"
+            android:ems="10"
+            android:hint="분 당"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/editText7"
+            android:layout_width="125dp"
+            android:layout_height="wrap_content"
+            android:layout_x="230dp"
+            android:layout_y="460dp"
+            android:ems="10"
+            android:hint="가격"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="164dp"
+            android:layout_y="533dp"
+            android:text="계산하기" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_x="5dp"
+            android:layout_y="600dp"
+            android:gravity="center_horizontal"
+            android:text="계산한 값"
+            android:textSize="30dp" />
+
+    </AbsoluteLayout>
+</ScrollView>
