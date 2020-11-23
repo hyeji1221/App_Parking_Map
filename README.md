@@ -16,8 +16,8 @@ Google map api를 이용
 
 ### :heavy_check_mark: images
 
-![KakaoTalk_20201123_223553150](https://user-images.githubusercontent.com/59350891/99969154-6f1b1400-2ddd-11eb-8f09-b6b421aab4d8.jpg)
-![KakaoTalk_20201123_223553150_01](https://user-images.githubusercontent.com/59350891/99969165-72160480-2ddd-11eb-961e-6134da700206.jpg)
+<img src = "https://user-images.githubusercontent.com/59350891/99969154-6f1b1400-2ddd-11eb-8f09-b6b421aab4d8.jpg" width = "40%">
+<img src = "https://user-images.githubusercontent.com/59350891/99969165-72160480-2ddd-11eb-961e-6134da700206.jpg" width = "40%">
 
 
 
