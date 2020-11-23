@@ -12,13 +12,12 @@ Google map api를 이용
 
 ### :heavy_check_mark: with
 
-[이아현] (https://github.com/LAH1203)
+[이아현](https://github.com/LAH1203)
 
 ### :heavy_check_mark: images
 
-<img src="C:\Users\lhg26\AppData\Roaming\Typora\typora-user-images\image-20201123223640918.png" alt="image-20201123223640918" style="zoom: 67%;" />
-
-<img src="C:\Users\lhg26\AppData\Roaming\Typora\typora-user-images\image-20201123223703934.png" alt="image-20201123223703934" style="zoom:67%;" />
+![KakaoTalk_20201123_223553150](https://user-images.githubusercontent.com/59350891/99969154-6f1b1400-2ddd-11eb-8f09-b6b421aab4d8.jpg)
+![KakaoTalk_20201123_223553150_01](https://user-images.githubusercontent.com/59350891/99969165-72160480-2ddd-11eb-961e-6134da700206.jpg)
 
 
 
